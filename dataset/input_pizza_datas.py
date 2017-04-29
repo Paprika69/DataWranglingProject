@@ -12,21 +12,25 @@ import csv
 
 # Open the connection to the database (must be one you can write to!)
 connection = pymysql.connect(host="localhost",            # your host, usually localhost
-                             user="ID",             # your username
-                             passwd="PW",   # your password
-                             db="ID_term_project", # name of the db
+                             user="jiang",             # your username
+                             passwd="21669969abd",   # your password
+                             db="jiang_term_project", # name of the db
                              autocommit=True,             # removes a step in queries
                              cursorclass=pymysql.cursors.DictCursor)
 
 cursor = connection.cursor()
+full_query = "TRUNCATE pizza_data;"
+cursor.execute(full_query)
+
 
 #  Read the CSV, then as we move row by row we can put it into the database
-with open('/export/home/u17/yoomi/term_project/dataset/pizza_datas.csv') as csvfile:
+with open('/export/home/u16/jiang/term_project/dataset/pizzadata.csv') as csvfile:
     # tell python about the specific csv format
     myCSVReader = csv.DictReader(csvfile, delimiter=",", quotechar='"')
 
     for row in myCSVReader:
         pprint.pprint(row)
         # sql with placeholders for dict_params
-        sql = "INSERT INTO pizza_datas(id, state_id, pizza_consumption, pizza_store_per_people, p_year_id) VALUES (%(id)s,%(state_id)s,%(pizza_consumption)s,%(state_id)s,%(pizza_store_per_people)s,%(p_year_id)s)"
+        sql = """INSERT INTO pizza_data(id, state_id, pizza_consumption, pizza_store_per_10000_people, p_year_id)
+              VALUES (%(id)s,%(state_id)s,%(pizza_consumption)s,%(pizza_store_per_10000_people)s,%(p_year_id)s)"""
         cursor.execute(sql,row)

@@ -12,16 +12,19 @@ import csv
 
 # Open the connection to the database (must be one you can write to!)
 connection = pymysql.connect(host="localhost",            # your host, usually localhost
-                             user="ID",             # your username
-                             passwd="Pw",   # your password
-                             db="ID_term_project", # name of the db
+                             user="jiang",             # your username
+                             passwd="21669969abd",   # your password
+                             db="jiang_term_project", # name of the db
                              autocommit=True,             # removes a step in queries
                              cursorclass=pymysql.cursors.DictCursor)
 
 cursor = connection.cursor()
+full_query = "TRUNCATE p_years;"
+cursor.execute(full_query)
+
 
 #  Read the CSV, then as we move row by row we can put it into the database
-with open('/export/home/u17/yoomi/term_project/dataset/p_years.csv') as csvfile:
+with open('/export/home/u16/jiang/term_project/dataset/p_years.csv') as csvfile:
     # tell python about the specific csv format
     myCSVReader = csv.DictReader(csvfile, delimiter=",", quotechar='"')
 
