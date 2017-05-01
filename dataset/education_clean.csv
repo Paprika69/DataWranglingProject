@@ -1,0 +1,1751 @@
+state,age_range,year,bachelor_rate
+Alaska,18-24 years old,2015,5.90%
+Alaska,25-34 years,2015,25.70%
+Alaska,35-44 years,2015,30.20%
+Alaska,45-64 years,2015,28.10%
+Alaska,65 years and over,2015,28.40%
+Alaska,18-24 years old,2014,5.40%
+Alaska,25-34 years,2014,24.90%
+Alaska,35-44 years,2014,30.20%
+Alaska,45-64 years,2014,28.20%
+Alaska,65 years and over,2014,27.40%
+Alaska,18-24 years old,2013,5.20%
+Alaska,25-34 years,2013,24.70%
+Alaska,35-44 years,2013,29.20%
+Alaska,45-64 years,2013,28.70%
+Alaska,65 years and over,2013,26.20%
+Alaska,18-24 years old,2012,5.00%
+Alaska,25-34 years,2012,17.80%
+Alaska,35-44 years,2012,24.10%
+Alaska,45-64 years,2012,29.40%
+Alaska,65 years and over,2012,25.40%
+Alaska,18-24 years old,2011,5.10%
+Alaska,25-34 years,2011,24.40%
+Alaska,35-44 years,2011,28.30%
+Alaska,45-64 years,2011,29.00%
+Alaska,65 years and over,2011,24.20%
+Alaska,18-24 years old,2010,4.80%
+Alaska,25-34 years,2010,23.90%
+Alaska,35-44 years,2010,27.20%
+Alaska,45-64 years,2010,29.50%
+Alaska,65 years and over,2010,23.00%
+Alaska,18-24 years old,2009,5.20%
+Alaska,25-34 years,2009,23.20%
+Alaska,35-44 years,2009,26.80%
+Alaska,45-64 years,2009,29.30%
+Alaska,65 years and over,2009,22.30%
+Arizona,18-24 years old,2015,7.10%
+Arizona,25-34 years,2015,26.10%
+Arizona,35-44 years,2015,29.20%
+Arizona,45-64 years,2015,27.70%
+Arizona,65 years and over,2015,27.00%
+Arizona,18-24 years old,2014,6.70%
+Arizona,25-34 years,2014,25.60%
+Arizona,35-44 years,2014,28.80%
+Arizona,45-64 years,2014,27.50%
+Arizona,65 years and over,2014,26.20%
+Arizona,18-24 years old,2013,6.90%
+Arizona,25-34 years,2013,25.50%
+Arizona,35-44 years,2013,28.30%
+Arizona,45-64 years,2013,27.70%
+Arizona,65 years and over,2013,25.40%
+Arizona,18-24 years old,2012,6.80%
+Arizona,25-34 years,2012,16.90%
+Arizona,35-44 years,2012,25.10%
+Arizona,45-64 years,2012,27.70%
+Arizona,65 years and over,2012,24.80%
+Arizona,18-24 years old,2011,6.80%
+Arizona,25-34 years,2011,24.90%
+Arizona,35-44 years,2011,27.60%
+Arizona,45-64 years,2011,27.90%
+Arizona,65 years and over,2011,24.10%
+Arizona,18-24 years old,2010,6.70%
+Arizona,25-34 years,2010,25.00%
+Arizona,35-44 years,2010,27.40%
+Arizona,45-64 years,2010,28.10%
+Arizona,65 years and over,2010,23.40%
+Arizona,18-24 years old,2009,6.50%
+Arizona,25-34 years,2009,24.10%
+Arizona,35-44 years,2009,26.60%
+Arizona,45-64 years,2009,28.00%
+Arizona,65 years and over,2009,22.60%
+Arkansas,18-24 years old,2015,7.10%
+Arkansas,25-34 years,2015,23.30%
+Arkansas,35-44 years,2015,24.40%
+Arkansas,45-64 years,2015,20.80%
+Arkansas,65 years and over,2015,17.10%
+Arkansas,18-24 years old,2014,6.60%
+Arkansas,25-34 years,2014,22.80%
+Arkansas,35-44 years,2014,23.50%
+Arkansas,45-64 years,2014,20.60%
+Arkansas,65 years and over,2014,16.40%
+Arkansas,18-24 years old,2013,6.10%
+Arkansas,25-34 years,2013,22.40%
+Arkansas,35-44 years,2013,23.00%
+Arkansas,45-64 years,2013,20.00%
+Arkansas,65 years and over,2013,15.80%
+Arkansas,18-24 years old,2012,6.00%
+Arkansas,25-34 years,2012,13.10%
+Arkansas,35-44 years,2012,21.90%
+Arkansas,45-64 years,2012,19.90%
+Arkansas,65 years and over,2012,15.10%
+Arkansas,18-24 years old,2011,5.80%
+Arkansas,25-34 years,2011,21.90%
+Arkansas,35-44 years,2011,21.80%
+Arkansas,45-64 years,2011,20.00%
+Arkansas,65 years and over,2011,14.80%
+Arkansas,18-24 years old,2010,6.00%
+Arkansas,25-34 years,2010,21.60%
+Arkansas,35-44 years,2010,21.20%
+Arkansas,45-64 years,2010,19.60%
+Arkansas,65 years and over,2010,14.10%
+Arkansas,18-24 years old,2009,6.00%
+Arkansas,25-34 years,2009,21.60%
+Arkansas,35-44 years,2009,21.10%
+Arkansas,45-64 years,2009,19.50%
+Arkansas,65 years and over,2009,13.50%
+California,18-24 years old,2015,9.20%
+California,25-34 years,2015,32.60%
+California,35-44 years,2015,33.60%
+California,45-64 years,2015,30.90%
+California,65 years and over,2015,28.80%
+California,18-24 years old,2014,8.80%
+California,25-34 years,2014,31.90%
+California,35-44 years,2014,32.90%
+California,45-64 years,2014,30.80%
+California,65 years and over,2014,28.10%
+California,18-24 years old,2013,8.50%
+California,25-34 years,2013,31.40%
+California,35-44 years,2013,32.50%
+California,45-64 years,2013,30.80%
+California,65 years and over,2013,27.30%
+California,18-24 years old,2012,8.30%
+California,25-34 years,2012,19.40%
+California,35-44 years,2012,31.00%
+California,45-64 years,2012,31.00%
+California,65 years and over,2012,26.50%
+California,18-24 years old,2011,8.20%
+California,25-34 years,2011,30.70%
+California,35-44 years,2011,31.80%
+California,45-64 years,2011,31.10%
+California,65 years and over,2011,25.80%
+California,18-24 years old,2010,8.10%
+California,25-34 years,2010,30.60%
+California,35-44 years,2010,31.30%
+California,45-64 years,2010,31.30%
+California,65 years and over,2010,25.10%
+California,18-24 years old,2009,8.00%
+California,25-34 years,2009,30.20%
+California,35-44 years,2009,30.90%
+California,45-64 years,2009,31.30%
+California,65 years and over,2009,24.10%
+Colorado,18-24 years old,2015,11.00%
+Colorado,25-34 years,2015,38.20%
+Colorado,35-44 years,2015,41.90%
+Colorado,45-64 years,2015,38.20%
+Colorado,65 years and over,2015,33.70%
+Colorado,18-24 years old,2014,11.00%
+Colorado,25-34 years,2014,37.30%
+Colorado,35-44 years,2014,40.90%
+Colorado,45-64 years,2014,38.00%
+Colorado,65 years and over,2014,32.50%
+Colorado,18-24 years old,2013,10.90%
+Colorado,25-34 years,2013,37.00%
+Colorado,35-44 years,2013,40.30%
+Colorado,45-64 years,2013,37.70%
+Colorado,65 years and over,2013,31.50%
+Colorado,18-24 years old,2012,11.00%
+Colorado,25-34 years,2012,23.40%
+Colorado,35-44 years,2012,36.50%
+Colorado,45-64 years,2012,37.80%
+Colorado,65 years and over,2012,30.30%
+Colorado,18-24 years old,2011,10.90%
+Colorado,25-34 years,2011,35.80%
+Colorado,35-44 years,2011,39.70%
+Colorado,45-64 years,2011,37.60%
+Colorado,65 years and over,2011,29.10%
+Colorado,18-24 years old,2010,10.50%
+Colorado,25-34 years,2010,35.10%
+Colorado,35-44 years,2010,39.30%
+Colorado,45-64 years,2010,37.60%
+Colorado,65 years and over,2010,28.20%
+Colorado,18-24 years old,2009,10.30%
+Colorado,25-34 years,2009,34.60%
+Colorado,35-44 years,2009,38.50%
+Colorado,45-64 years,2009,37.50%
+Colorado,65 years and over,2009,27.20%
+Connecticut,18-24 years old,2015,13.60%
+Connecticut,25-34 years,2015,41.20%
+Connecticut,35-44 years,2015,42.30%
+Connecticut,45-64 years,2015,38.30%
+Connecticut,65 years and over,2015,29.40%
+Connecticut,18-24 years old,2014,13.30%
+Connecticut,25-34 years,2014,40.30%
+Connecticut,35-44 years,2014,41.70%
+Connecticut,45-64 years,2014,38.00%
+Connecticut,65 years and over,2014,28.40%
+Connecticut,18-24 years old,2013,13.00%
+Connecticut,25-34 years,2013,39.80%
+Connecticut,35-44 years,2013,41.20%
+Connecticut,45-64 years,2013,37.60%
+Connecticut,65 years and over,2013,27.10%
+Connecticut,18-24 years old,2012,13.10%
+Connecticut,25-34 years,2012,20.30%
+Connecticut,35-44 years,2012,39.70%
+Connecticut,45-64 years,2012,37.30%
+Connecticut,65 years and over,2012,26.50%
+Connecticut,18-24 years old,2011,12.80%
+Connecticut,25-34 years,2011,39.30%
+Connecticut,35-44 years,2011,40.30%
+Connecticut,45-64 years,2011,37.00%
+Connecticut,65 years and over,2011,25.50%
+Connecticut,18-24 years old,2010,12.70%
+Connecticut,25-34 years,2010,39.00%
+Connecticut,35-44 years,2010,39.30%
+Connecticut,45-64 years,2010,36.80%
+Connecticut,65 years and over,2010,24.40%
+Connecticut,18-24 years old,2009,12.50%
+Connecticut,25-34 years,2009,38.70%
+Connecticut,35-44 years,2009,39.30%
+Connecticut,45-64 years,2009,36.90%
+Connecticut,65 years and over,2009,23.60%
+Delaware,18-24 years old,2015,10.50%
+Delaware,25-34 years,2015,33.00%
+Delaware,35-44 years,2015,34.50%
+Delaware,45-64 years,2015,29.60%
+Delaware,65 years and over,2015,24.90%
+Delaware,18-24 years old,2014,9.90%
+Delaware,25-34 years,2014,32.70%
+Delaware,35-44 years,2014,33.60%
+Delaware,45-64 years,2014,29.20%
+Delaware,65 years and over,2014,23.80%
+Delaware,18-24 years old,2013,10.00%
+Delaware,25-34 years,2013,31.70%
+Delaware,35-44 years,2013,33.10%
+Delaware,45-64 years,2013,28.80%
+Delaware,65 years and over,2013,23.10%
+Delaware,18-24 years old,2012,9.40%
+Delaware,25-34 years,2012,17.10%
+Delaware,35-44 years,2012,31.50%
+Delaware,45-64 years,2012,28.60%
+Delaware,65 years and over,2012,22.90%
+Delaware,18-24 years old,2011,9.60%
+Delaware,25-34 years,2011,31.30%
+Delaware,35-44 years,2011,30.30%
+Delaware,45-64 years,2011,28.40%
+Delaware,65 years and over,2011,22.10%
+Delaware,18-24 years old,2010,9.30%
+Delaware,25-34 years,2010,31.70%
+Delaware,35-44 years,2010,29.60%
+Delaware,45-64 years,2010,28.10%
+Delaware,65 years and over,2010,21.20%
+Delaware,18-24 years old,2009,9.50%
+Delaware,25-34 years,2009,32.60%
+Delaware,35-44 years,2009,29.00%
+Delaware,45-64 years,2009,28.00%
+Delaware,65 years and over,2009,20.50%
+District of Columbia,18-24 years old,2015,23.00%
+District of Columbia,25-34 years,2015,69.70%
+District of Columbia,35-44 years,2015,59.70%
+District of Columbia,45-64 years,2015,44.10%
+District of Columbia,65 years and over,2015,39.20%
+District of Columbia,18-24 years old,2014,24.10%
+District of Columbia,25-34 years,2014,68.90%
+District of Columbia,35-44 years,2014,57.80%
+District of Columbia,45-64 years,2014,43.10%
+District of Columbia,65 years and over,2014,38.20%
+District of Columbia,18-24 years old,2013,24.10%
+District of Columbia,25-34 years,2013,68.40%
+District of Columbia,35-44 years,2013,55.40%
+District of Columbia,45-64 years,2013,42.70%
+District of Columbia,65 years and over,2013,37.90%
+District of Columbia,18-24 years old,2012,25.10%
+District of Columbia,25-34 years,2012,22.50%
+District of Columbia,35-44 years,2012,67.10%
+District of Columbia,45-64 years,2012,42.40%
+District of Columbia,65 years and over,2012,37.00%
+District of Columbia,18-24 years old,2011,26.10%
+District of Columbia,25-34 years,2011,66.50%
+District of Columbia,35-44 years,2011,52.80%
+District of Columbia,45-64 years,2011,42.40%
+District of Columbia,65 years and over,2011,35.90%
+District of Columbia,18-24 years old,2010,25.90%
+District of Columbia,25-34 years,2010,64.80%
+District of Columbia,35-44 years,2010,51.50%
+District of Columbia,45-64 years,2010,42.00%
+District of Columbia,65 years and over,2010,34.50%
+District of Columbia,18-24 years old,2009,21.10%
+District of Columbia,25-34 years,2009,61.00%
+District of Columbia,35-44 years,2009,49.90%
+District of Columbia,45-64 years,2009,42.10%
+District of Columbia,65 years and over,2009,32.90%
+Florida,18-24 years old,2015,8.10%
+Florida,25-34 years,2015,27.70%
+Florida,35-44 years,2015,29.80%
+Florida,45-64 years,2015,27.60%
+Florida,65 years and over,2015,25.20%
+Florida,18-24 years old,2014,7.90%
+Florida,25-34 years,2014,26.90%
+Florida,35-44 years,2014,29.20%
+Florida,45-64 years,2014,27.20%
+Florida,65 years and over,2014,24.40%
+Florida,18-24 years old,2013,7.80%
+Florida,25-34 years,2013,26.50%
+Florida,35-44 years,2013,28.90%
+Florida,45-64 years,2013,27.10%
+Florida,65 years and over,2013,23.50%
+Florida,18-24 years old,2012,7.70%
+Florida,25-34 years,2012,16.80%
+Florida,35-44 years,2012,26.30%
+Florida,45-64 years,2012,27.10%
+Florida,65 years and over,2012,22.90%
+Florida,18-24 years old,2011,7.70%
+Florida,25-34 years,2011,26.30%
+Florida,35-44 years,2011,28.30%
+Florida,45-64 years,2011,27.20%
+Florida,65 years and over,2011,22.20%
+Florida,18-24 years old,2010,7.60%
+Florida,25-34 years,2010,26.30%
+Florida,35-44 years,2010,27.90%
+Florida,45-64 years,2010,27.30%
+Florida,65 years and over,2010,21.80%
+Florida,18-24 years old,2009,7.70%
+Florida,25-34 years,2009,26.20%
+Florida,35-44 years,2009,27.50%
+Florida,45-64 years,2009,27.30%
+Florida,65 years and over,2009,21.00%
+Georgia,18-24 years old,2015,7.90%
+Georgia,25-34 years,2015,29.80%
+Georgia,35-44 years,2015,32.70%
+Georgia,45-64 years,2015,29.20%
+Georgia,65 years and over,2015,22.60%
+Georgia,18-24 years old,2014,7.60%
+Georgia,25-34 years,2014,29.20%
+Georgia,35-44 years,2014,32.40%
+Georgia,45-64 years,2014,28.60%
+Georgia,65 years and over,2014,21.60%
+Georgia,18-24 years old,2013,7.50%
+Georgia,25-34 years,2013,29.00%
+Georgia,35-44 years,2013,32.00%
+Georgia,45-64 years,2013,28.20%
+Georgia,65 years and over,2013,20.90%
+Georgia,18-24 years old,2012,7.30%
+Georgia,25-34 years,2012,17.70%
+Georgia,35-44 years,2012,28.90%
+Georgia,45-64 years,2012,28.10%
+Georgia,65 years and over,2012,19.90%
+Georgia,18-24 years old,2011,7.40%
+Georgia,25-34 years,2011,28.90%
+Georgia,35-44 years,2011,31.40%
+Georgia,45-64 years,2011,28.00%
+Georgia,65 years and over,2011,19.00%
+Georgia,18-24 years old,2010,7.50%
+Georgia,25-34 years,2010,28.80%
+Georgia,35-44 years,2010,30.80%
+Georgia,45-64 years,2010,27.80%
+Georgia,65 years and over,2010,18.40%
+Georgia,18-24 years old,2009,7.60%
+Georgia,25-34 years,2009,29.10%
+Georgia,35-44 years,2009,30.40%
+Georgia,45-64 years,2009,27.80%
+Georgia,65 years and over,2009,17.60%
+Hawaii,18-24 years old,2015,8.30%
+Hawaii,25-34 years,2015,30.20%
+Hawaii,35-44 years,2015,33.80%
+Hawaii,45-64 years,2015,32.20%
+Hawaii,65 years and over,2015,26.90%
+Hawaii,18-24 years old,2014,7.90%
+Hawaii,25-34 years,2014,29.50%
+Hawaii,35-44 years,2014,33.60%
+Hawaii,45-64 years,2014,32.10%
+Hawaii,65 years and over,2014,26.00%
+Hawaii,18-24 years old,2013,8.10%
+Hawaii,25-34 years,2013,29.70%
+Hawaii,35-44 years,2013,32.30%
+Hawaii,45-64 years,2013,32.10%
+Hawaii,65 years and over,2013,24.90%
+Hawaii,18-24 years old,2012,7.60%
+Hawaii,25-34 years,2012,19.60%
+Hawaii,35-44 years,2012,29.30%
+Hawaii,45-64 years,2012,32.10%
+Hawaii,65 years and over,2012,24.00%
+Hawaii,18-24 years old,2011,7.60%
+Hawaii,25-34 years,2011,29.30%
+Hawaii,35-44 years,2011,31.00%
+Hawaii,45-64 years,2011,32.20%
+Hawaii,65 years and over,2011,23.20%
+Hawaii,18-24 years old,2010,7.40%
+Hawaii,25-34 years,2010,28.90%
+Hawaii,35-44 years,2010,31.40%
+Hawaii,45-64 years,2010,32.50%
+Hawaii,65 years and over,2010,22.20%
+Hawaii,18-24 years old,2009,7.80%
+Hawaii,25-34 years,2009,29.10%
+Hawaii,35-44 years,2009,31.30%
+Hawaii,45-64 years,2009,32.60%
+Hawaii,65 years and over,2009,21.00%
+Idaho,18-24 years old,2015,6.10%
+Idaho,25-34 years,2015,25.10%
+Idaho,35-44 years,2015,29.60%
+Idaho,45-64 years,2015,26.00%
+Idaho,65 years and over,2015,23.10%
+Idaho,18-24 years old,2014,6.50%
+Idaho,25-34 years,2014,24.40%
+Idaho,35-44 years,2014,28.90%
+Idaho,45-64 years,2014,26.00%
+Idaho,65 years and over,2014,22.10%
+Idaho,18-24 years old,2013,6.60%
+Idaho,25-34 years,2013,23.60%
+Idaho,35-44 years,2013,28.50%
+Idaho,45-64 years,2013,26.10%
+Idaho,65 years and over,2013,21.40%
+Idaho,18-24 years old,2012,6.00%
+Idaho,25-34 years,2012,17.00%
+Idaho,35-44 years,2012,23.40%
+Idaho,45-64 years,2012,26.00%
+Idaho,65 years and over,2012,20.40%
+Idaho,18-24 years old,2011,5.90%
+Idaho,25-34 years,2011,23.60%
+Idaho,35-44 years,2011,27.80%
+Idaho,45-64 years,2011,26.00%
+Idaho,65 years and over,2011,19.40%
+Idaho,18-24 years old,2010,5.90%
+Idaho,25-34 years,2010,23.10%
+Idaho,35-44 years,2010,27.60%
+Idaho,45-64 years,2010,25.90%
+Idaho,65 years and over,2010,18.80%
+Idaho,18-24 years old,2009,5.50%
+Idaho,25-34 years,2009,22.80%
+Idaho,35-44 years,2009,26.70%
+Idaho,45-64 years,2009,25.50%
+Idaho,65 years and over,2009,18.10%
+Illinois,18-24 years old,2015,12.40%
+Illinois,25-34 years,2015,39.30%
+Illinois,35-44 years,2015,36.90%
+Illinois,45-64 years,2015,31.20%
+Illinois,65 years and over,2015,22.70%
+Illinois,18-24 years old,2014,12.50%
+Illinois,25-34 years,2014,38.70%
+Illinois,35-44 years,2014,36.50%
+Illinois,45-64 years,2014,31.00%
+Illinois,65 years and over,2014,21.90%
+Illinois,18-24 years old,2013,12.20%
+Illinois,25-34 years,2013,38.20%
+Illinois,35-44 years,2013,35.90%
+Illinois,45-64 years,2013,30.80%
+Illinois,65 years and over,2013,20.80%
+Illinois,18-24 years old,2012,12.20%
+Illinois,25-34 years,2012,19.30%
+Illinois,35-44 years,2012,37.90%
+Illinois,45-64 years,2012,30.60%
+Illinois,65 years and over,2012,20.00%
+Illinois,18-24 years old,2011,12.10%
+Illinois,25-34 years,2011,37.20%
+Illinois,35-44 years,2011,35.10%
+Illinois,45-64 years,2011,30.40%
+Illinois,65 years and over,2011,19.10%
+Illinois,18-24 years old,2010,11.70%
+Illinois,25-34 years,2010,36.60%
+Illinois,35-44 years,2010,34.50%
+Illinois,45-64 years,2010,30.20%
+Illinois,65 years and over,2010,18.50%
+Illinois,18-24 years old,2009,11.30%
+Illinois,25-34 years,2009,35.80%
+Illinois,35-44 years,2009,34.10%
+Illinois,45-64 years,2009,29.80%
+Illinois,65 years and over,2009,17.80%
+Indiana,18-24 years old,2015,8.70%
+Indiana,25-34 years,2015,28.60%
+Indiana,35-44 years,2015,27.90%
+Indiana,45-64 years,2015,23.50%
+Indiana,65 years and over,2015,17.70%
+Indiana,18-24 years old,2014,8.40%
+Indiana,25-34 years,2014,28.10%
+Indiana,35-44 years,2014,27.30%
+Indiana,45-64 years,2014,23.20%
+Indiana,65 years and over,2014,16.90%
+Indiana,18-24 years old,2013,8.20%
+Indiana,25-34 years,2013,27.50%
+Indiana,35-44 years,2013,26.80%
+Indiana,45-64 years,2013,22.90%
+Indiana,65 years and over,2013,16.10%
+Indiana,18-24 years old,2012,8.10%
+Indiana,25-34 years,2012,14.70%
+Indiana,35-44 years,2012,27.30%
+Indiana,45-64 years,2012,22.90%
+Indiana,65 years and over,2012,15.60%
+Indiana,18-24 years old,2011,8.10%
+Indiana,25-34 years,2011,26.80%
+Indiana,35-44 years,2011,25.60%
+Indiana,45-64 years,2011,23.00%
+Indiana,65 years and over,2011,15.00%
+Indiana,18-24 years old,2010,8.00%
+Indiana,25-34 years,2010,26.60%
+Indiana,35-44 years,2010,25.00%
+Indiana,45-64 years,2010,22.90%
+Indiana,65 years and over,2010,14.60%
+Indiana,18-24 years old,2009,8.00%
+Indiana,25-34 years,2009,25.80%
+Indiana,35-44 years,2009,24.20%
+Indiana,45-64 years,2009,22.60%
+Indiana,65 years and over,2009,14.20%
+Iowa,18-24 years old,2015,10.10%
+Iowa,25-34 years,2015,33.50%
+Iowa,35-44 years,2015,32.50%
+Iowa,45-64 years,2015,25.50%
+Iowa,65 years and over,2015,18.70%
+Iowa,18-24 years old,2014,10.20%
+Iowa,25-34 years,2014,33.30%
+Iowa,35-44 years,2014,31.70%
+Iowa,45-64 years,2014,25.50%
+Iowa,65 years and over,2014,17.90%
+Iowa,18-24 years old,2013,10.10%
+Iowa,25-34 years,2013,32.20%
+Iowa,35-44 years,2013,31.00%
+Iowa,45-64 years,2013,25.30%
+Iowa,65 years and over,2013,16.90%
+Iowa,18-24 years old,2012,10.20%
+Iowa,25-34 years,2012,17.50%
+Iowa,35-44 years,2012,32.10%
+Iowa,45-64 years,2012,25.10%
+Iowa,65 years and over,2012,15.90%
+Iowa,18-24 years old,2011,9.90%
+Iowa,25-34 years,2011,31.90%
+Iowa,35-44 years,2011,29.70%
+Iowa,45-64 years,2011,24.90%
+Iowa,65 years and over,2011,15.10%
+Iowa,18-24 years old,2010,9.90%
+Iowa,25-34 years,2010,31.40%
+Iowa,35-44 years,2010,29.00%
+Iowa,45-64 years,2010,24.70%
+Iowa,65 years and over,2010,14.60%
+Iowa,18-24 years old,2009,10.30%
+Iowa,25-34 years,2009,31.30%
+Iowa,35-44 years,2009,28.40%
+Iowa,45-64 years,2009,24.50%
+Iowa,65 years and over,2009,14.20%
+Kansas,18-24 years old,2015,9.40%
+Kansas,25-34 years,2015,33.90%
+Kansas,35-44 years,2015,35.20%
+Kansas,45-64 years,2015,31.30%
+Kansas,65 years and over,2015,24.30%
+Kansas,18-24 years old,2014,9.20%
+Kansas,25-34 years,2014,33.40%
+Kansas,35-44 years,2014,35.30%
+Kansas,45-64 years,2014,31.10%
+Kansas,65 years and over,2014,23.30%
+Kansas,18-24 years old,2013,9.00%
+Kansas,25-34 years,2013,33.10%
+Kansas,35-44 years,2013,34.50%
+Kansas,45-64 years,2013,31.10%
+Kansas,65 years and over,2013,22.10%
+Kansas,18-24 years old,2012,9.20%
+Kansas,25-34 years,2012,19.60%
+Kansas,35-44 years,2012,32.90%
+Kansas,45-64 years,2012,31.00%
+Kansas,65 years and over,2012,21.30%
+Kansas,18-24 years old,2011,9.30%
+Kansas,25-34 years,2011,32.70%
+Kansas,35-44 years,2011,33.80%
+Kansas,45-64 years,2011,30.90%
+Kansas,65 years and over,2011,20.60%
+Kansas,18-24 years old,2010,9.00%
+Kansas,25-34 years,2010,32.10%
+Kansas,35-44 years,2010,33.50%
+Kansas,45-64 years,2010,30.80%
+Kansas,65 years and over,2010,19.80%
+Kansas,18-24 years old,2009,9.50%
+Kansas,25-34 years,2009,31.50%
+Kansas,35-44 years,2009,32.40%
+Kansas,45-64 years,2009,30.60%
+Kansas,65 years and over,2009,19.20%
+Kentucky,18-24 years old,2015,7.60%
+Kentucky,25-34 years,2015,26.50%
+Kentucky,35-44 years,2015,26.20%
+Kentucky,45-64 years,2015,21.50%
+Kentucky,65 years and over,2015,16.60%
+Kentucky,18-24 years old,2014,7.50%
+Kentucky,25-34 years,2014,25.90%
+Kentucky,35-44 years,2014,25.60%
+Kentucky,45-64 years,2014,21.20%
+Kentucky,65 years and over,2014,15.60%
+Kentucky,18-24 years old,2013,7.30%
+Kentucky,25-34 years,2013,25.70%
+Kentucky,35-44 years,2013,25.30%
+Kentucky,45-64 years,2013,21.10%
+Kentucky,65 years and over,2013,14.80%
+Kentucky,18-24 years old,2012,7.10%
+Kentucky,25-34 years,2012,12.50%
+Kentucky,35-44 years,2012,25.30%
+Kentucky,45-64 years,2012,20.70%
+Kentucky,65 years and over,2012,14.00%
+Kentucky,18-24 years old,2011,7.00%
+Kentucky,25-34 years,2011,25.00%
+Kentucky,35-44 years,2011,23.80%
+Kentucky,45-64 years,2011,20.50%
+Kentucky,65 years and over,2011,13.40%
+Kentucky,18-24 years old,2010,7.20%
+Kentucky,25-34 years,2010,24.40%
+Kentucky,35-44 years,2010,23.20%
+Kentucky,45-64 years,2010,20.50%
+Kentucky,65 years and over,2010,12.90%
+Kentucky,18-24 years old,2009,7.30%
+Kentucky,25-34 years,2009,23.60%
+Kentucky,35-44 years,2009,22.80%
+Kentucky,45-64 years,2009,20.40%
+Kentucky,65 years and over,2009,12.50%
+Louisiana,18-24 years old,2015,7.30%
+Louisiana,25-34 years,2015,25.60%
+Louisiana,35-44 years,2015,25.20%
+Louisiana,45-64 years,2015,21.40%
+Louisiana,65 years and over,2015,18.90%
+Louisiana,18-24 years old,2014,7.20%
+Louisiana,25-34 years,2014,25.20%
+Louisiana,35-44 years,2014,24.60%
+Louisiana,45-64 years,2014,21.20%
+Louisiana,65 years and over,2014,18.30%
+Louisiana,18-24 years old,2013,7.30%
+Louisiana,25-34 years,2013,25.00%
+Louisiana,35-44 years,2013,24.00%
+Louisiana,45-64 years,2013,21.20%
+Louisiana,65 years and over,2013,17.50%
+Louisiana,18-24 years old,2012,7.10%
+Louisiana,25-34 years,2012,14.30%
+Louisiana,35-44 years,2012,24.40%
+Louisiana,45-64 years,2012,21.10%
+Louisiana,65 years and over,2012,16.90%
+Louisiana,18-24 years old,2011,6.80%
+Louisiana,25-34 years,2011,23.70%
+Louisiana,35-44 years,2011,22.60%
+Louisiana,45-64 years,2011,21.20%
+Louisiana,65 years and over,2011,16.40%
+Louisiana,18-24 years old,2010,6.60%
+Louisiana,25-34 years,2010,23.50%
+Louisiana,35-44 years,2010,22.20%
+Louisiana,45-64 years,2010,21.40%
+Louisiana,65 years and over,2010,15.90%
+Louisiana,18-24 years old,2009,6.40%
+Louisiana,25-34 years,2009,22.50%
+Louisiana,35-44 years,2009,22.10%
+Louisiana,45-64 years,2009,21.40%
+Louisiana,65 years and over,2009,15.50%
+Maine,18-24 years old,2015,9.90%
+Maine,25-34 years,2015,31.20%
+Maine,35-44 years,2015,31.40%
+Maine,45-64 years,2015,28.70%
+Maine,65 years and over,2015,26.40%
+Maine,18-24 years old,2014,9.60%
+Maine,25-34 years,2014,30.60%
+Maine,35-44 years,2014,30.00%
+Maine,45-64 years,2014,28.90%
+Maine,65 years and over,2014,24.70%
+Maine,18-24 years old,2013,9.10%
+Maine,25-34 years,2013,29.90%
+Maine,35-44 years,2013,29.70%
+Maine,45-64 years,2013,28.80%
+Maine,65 years and over,2013,23.70%
+Maine,18-24 years old,2012,8.90%
+Maine,25-34 years,2012,17.60%
+Maine,35-44 years,2012,29.10%
+Maine,45-64 years,2012,28.60%
+Maine,65 years and over,2012,22.50%
+Maine,18-24 years old,2011,8.70%
+Maine,25-34 years,2011,29.70%
+Maine,35-44 years,2011,28.60%
+Maine,45-64 years,2011,28.50%
+Maine,65 years and over,2011,21.30%
+Maine,18-24 years old,2010,8.00%
+Maine,25-34 years,2010,28.60%
+Maine,35-44 years,2010,27.50%
+Maine,45-64 years,2010,28.30%
+Maine,65 years and over,2010,20.70%
+Maine,18-24 years old,2009,7.70%
+Maine,25-34 years,2009,27.80%
+Maine,35-44 years,2009,26.60%
+Maine,45-64 years,2009,28.20%
+Maine,65 years and over,2009,20.40%
+Maryland,18-24 years old,2015,12.70%
+Maryland,25-34 years,2015,40.20%
+Maryland,35-44 years,2015,42.80%
+Maryland,45-64 years,2015,37.80%
+Maryland,65 years and over,2015,30.90%
+Maryland,18-24 years old,2014,12.70%
+Maryland,25-34 years,2014,39.70%
+Maryland,35-44 years,2014,41.70%
+Maryland,45-64 years,2014,37.40%
+Maryland,65 years and over,2014,30.00%
+Maryland,18-24 years old,2013,12.80%
+Maryland,25-34 years,2013,39.40%
+Maryland,35-44 years,2013,41.00%
+Maryland,45-64 years,2013,37.10%
+Maryland,65 years and over,2013,28.90%
+Maryland,18-24 years old,2012,12.90%
+Maryland,25-34 years,2012,20.00%
+Maryland,35-44 years,2012,39.30%
+Maryland,45-64 years,2012,36.70%
+Maryland,65 years and over,2012,28.10%
+Maryland,18-24 years old,2011,12.80%
+Maryland,25-34 years,2011,39.10%
+Maryland,35-44 years,2011,39.50%
+Maryland,45-64 years,2011,36.80%
+Maryland,65 years and over,2011,27.10%
+Maryland,18-24 years old,2010,12.90%
+Maryland,25-34 years,2010,38.90%
+Maryland,35-44 years,2010,38.80%
+Maryland,45-64 years,2010,36.70%
+Maryland,65 years and over,2010,26.20%
+Maryland,18-24 years old,2009,12.60%
+Maryland,25-34 years,2009,38.60%
+Maryland,35-44 years,2009,38.30%
+Maryland,45-64 years,2009,36.20%
+Maryland,65 years and over,2009,25.00%
+Massachusetts,18-24 years old,2015,16.00%
+Massachusetts,25-34 years,2015,49.50%
+Massachusetts,35-44 years,2015,46.00%
+Massachusetts,45-64 years,2015,39.50%
+Massachusetts,65 years and over,2015,29.30%
+Massachusetts,18-24 years old,2014,15.70%
+Massachusetts,25-34 years,2014,48.80%
+Massachusetts,35-44 years,2014,45.70%
+Massachusetts,45-64 years,2014,39.20%
+Massachusetts,65 years and over,2014,28.10%
+Massachusetts,18-24 years old,2013,15.30%
+Massachusetts,25-34 years,2013,48.30%
+Massachusetts,35-44 years,2013,44.80%
+Massachusetts,45-64 years,2013,38.90%
+Massachusetts,65 years and over,2013,26.90%
+Massachusetts,18-24 years old,2012,15.40%
+Massachusetts,25-34 years,2012,22.20%
+Massachusetts,35-44 years,2012,48.10%
+Massachusetts,45-64 years,2012,38.90%
+Massachusetts,65 years and over,2012,25.90%
+Massachusetts,18-24 years old,2011,15.30%
+Massachusetts,25-34 years,2011,48.00%
+Massachusetts,35-44 years,2011,43.30%
+Massachusetts,45-64 years,2011,38.80%
+Massachusetts,65 years and over,2011,25.10%
+Massachusetts,18-24 years old,2010,15.80%
+Massachusetts,25-34 years,2010,47.60%
+Massachusetts,35-44 years,2010,42.70%
+Massachusetts,45-64 years,2010,38.60%
+Massachusetts,65 years and over,2010,24.20%
+Massachusetts,18-24 years old,2009,14.50%
+Massachusetts,25-34 years,2009,47.40%
+Massachusetts,35-44 years,2009,41.60%
+Massachusetts,45-64 years,2009,38.20%
+Massachusetts,65 years and over,2009,23.40%
+Michigan,18-24 years old,2015,9.20%
+Michigan,25-34 years,2015,30.60%
+Michigan,35-44 years,2015,31.70%
+Michigan,45-64 years,2015,26.30%
+Michigan,65 years and over,2015,21.30%
+Michigan,18-24 years old,2014,8.90%
+Michigan,25-34 years,2014,30.00%
+Michigan,35-44 years,2014,31.10%
+Michigan,45-64 years,2014,26.00%
+Michigan,65 years and over,2014,20.30%
+Michigan,18-24 years old,2013,8.50%
+Michigan,25-34 years,2013,29.20%
+Michigan,35-44 years,2013,30.60%
+Michigan,45-64 years,2013,25.80%
+Michigan,65 years and over,2013,19.40%
+Michigan,18-24 years old,2012,8.30%
+Michigan,25-34 years,2012,15.70%
+Michigan,35-44 years,2012,28.90%
+Michigan,45-64 years,2012,25.50%
+Michigan,65 years and over,2012,18.40%
+Michigan,18-24 years old,2011,8.30%
+Michigan,25-34 years,2011,28.70%
+Michigan,35-44 years,2011,29.60%
+Michigan,45-64 years,2011,25.50%
+Michigan,65 years and over,2011,17.70%
+Michigan,18-24 years old,2010,7.90%
+Michigan,25-34 years,2010,28.60%
+Michigan,35-44 years,2010,29.10%
+Michigan,45-64 years,2010,25.30%
+Michigan,65 years and over,2010,17.00%
+Michigan,18-24 years old,2009,8.30%
+Michigan,25-34 years,2009,27.60%
+Michigan,35-44 years,2009,28.20%
+Michigan,45-64 years,2009,25.00%
+Michigan,65 years and over,2009,16.30%
+Minnesota,18-24 years old,2015,12.10%
+Minnesota,25-34 years,2015,39.10%
+Minnesota,35-44 years,2015,39.70%
+Minnesota,45-64 years,2015,32.80%
+Minnesota,65 years and over,2015,25.00%
+Minnesota,18-24 years old,2014,11.80%
+Minnesota,25-34 years,2014,38.50%
+Minnesota,35-44 years,2014,39.40%
+Minnesota,45-64 years,2014,32.30%
+Minnesota,65 years and over,2014,23.80%
+Minnesota,18-24 years old,2013,11.40%
+Minnesota,25-34 years,2013,38.00%
+Minnesota,35-44 years,2013,38.90%
+Minnesota,45-64 years,2013,31.90%
+Minnesota,65 years and over,2013,22.70%
+Minnesota,18-24 years old,2012,11.30%
+Minnesota,25-34 years,2012,21.80%
+Minnesota,35-44 years,2012,37.90%
+Minnesota,45-64 years,2012,31.40%
+Minnesota,65 years and over,2012,21.90%
+Minnesota,18-24 years old,2011,11.20%
+Minnesota,25-34 years,2011,37.20%
+Minnesota,35-44 years,2011,38.00%
+Minnesota,45-64 years,2011,31.10%
+Minnesota,65 years and over,2011,21.00%
+Minnesota,18-24 years old,2010,11.10%
+Minnesota,25-34 years,2010,36.90%
+Minnesota,35-44 years,2010,37.10%
+Minnesota,45-64 years,2010,31.10%
+Minnesota,65 years and over,2010,20.20%
+Minnesota,18-24 years old,2009,10.60%
+Minnesota,25-34 years,2009,37.50%
+Minnesota,35-44 years,2009,36.20%
+Minnesota,45-64 years,2009,30.90%
+Minnesota,65 years and over,2009,19.50%
+Mississippi,18-24 years old,2015,5.90%
+Mississippi,25-34 years,2015,22.40%
+Mississippi,35-44 years,2015,23.00%
+Mississippi,45-64 years,2015,20.10%
+Mississippi,65 years and over,2015,18.10%
+Mississippi,18-24 years old,2014,5.80%
+Mississippi,25-34 years,2014,21.70%
+Mississippi,35-44 years,2014,23.00%
+Mississippi,45-64 years,2014,20.10%
+Mississippi,65 years and over,2014,17.40%
+Mississippi,18-24 years old,2013,5.60%
+Mississippi,25-34 years,2013,21.10%
+Mississippi,35-44 years,2013,22.40%
+Mississippi,45-64 years,2013,20.40%
+Mississippi,65 years and over,2013,16.60%
+Mississippi,18-24 years old,2012,5.60%
+Mississippi,25-34 years,2012,12.80%
+Mississippi,35-44 years,2012,21.20%
+Mississippi,45-64 years,2012,20.40%
+Mississippi,65 years and over,2012,16.00%
+Mississippi,18-24 years old,2011,5.70%
+Mississippi,25-34 years,2011,20.90%
+Mississippi,35-44 years,2011,21.60%
+Mississippi,45-64 years,2011,20.20%
+Mississippi,65 years and over,2011,15.30%
+Mississippi,18-24 years old,2010,5.40%
+Mississippi,25-34 years,2010,20.80%
+Mississippi,35-44 years,2010,21.30%
+Mississippi,45-64 years,2010,20.00%
+Mississippi,65 years and over,2010,15.00%
+Mississippi,18-24 years old,2009,5.60%
+Mississippi,25-34 years,2009,20.60%
+Mississippi,35-44 years,2009,20.50%
+Mississippi,45-64 years,2009,20.00%
+Mississippi,65 years and over,2009,14.10%
+Missouri,18-24 years old,2015,9.60%
+Missouri,25-34 years,2015,32.20%
+Missouri,35-44 years,2015,31.90%
+Missouri,45-64 years,2015,26.50%
+Missouri,65 years and over,2015,19.90%
+Missouri,18-24 years old,2014,9.50%
+Missouri,25-34 years,2014,31.70%
+Missouri,35-44 years,2014,31.30%
+Missouri,45-64 years,2014,26.30%
+Missouri,65 years and over,2014,18.90%
+Missouri,18-24 years old,2013,9.40%
+Missouri,25-34 years,2013,31.20%
+Missouri,35-44 years,2013,30.50%
+Missouri,45-64 years,2013,26.00%
+Missouri,65 years and over,2013,18.20%
+Missouri,18-24 years old,2012,9.30%
+Missouri,25-34 years,2012,16.20%
+Missouri,35-44 years,2012,31.00%
+Missouri,45-64 years,2012,25.80%
+Missouri,65 years and over,2012,17.40%
+Missouri,18-24 years old,2011,9.30%
+Missouri,25-34 years,2011,30.80%
+Missouri,35-44 years,2011,29.10%
+Missouri,45-64 years,2011,25.60%
+Missouri,65 years and over,2011,16.70%
+Missouri,18-24 years old,2010,9.10%
+Missouri,25-34 years,2010,30.40%
+Missouri,35-44 years,2010,28.50%
+Missouri,45-64 years,2010,25.40%
+Missouri,65 years and over,2010,16.00%
+Missouri,18-24 years old,2009,9.10%
+Missouri,25-34 years,2009,29.70%
+Missouri,35-44 years,2009,27.90%
+Missouri,45-64 years,2009,25.10%
+Missouri,65 years and over,2009,15.40%
+Montana,18-24 years old,2015,6.70%
+Montana,25-34 years,2015,31.60%
+Montana,35-44 years,2015,34.40%
+Montana,45-64 years,2015,28.30%
+Montana,65 years and over,2015,26.50%
+Montana,18-24 years old,2014,6.90%
+Montana,25-34 years,2014,31.30%
+Montana,35-44 years,2014,33.30%
+Montana,45-64 years,2014,28.60%
+Montana,65 years and over,2014,25.10%
+Montana,18-24 years old,2013,6.80%
+Montana,25-34 years,2013,31.10%
+Montana,35-44 years,2013,32.90%
+Montana,45-64 years,2013,28.30%
+Montana,65 years and over,2013,24.30%
+Montana,18-24 years old,2012,7.20%
+Montana,25-34 years,2012,19.70%
+Montana,35-44 years,2012,30.50%
+Montana,45-64 years,2012,28.90%
+Montana,65 years and over,2012,22.70%
+Montana,18-24 years old,2011,7.00%
+Montana,25-34 years,2011,29.60%
+Montana,35-44 years,2011,32.40%
+Montana,45-64 years,2011,29.10%
+Montana,65 years and over,2011,21.60%
+Montana,18-24 years old,2010,6.80%
+Montana,25-34 years,2010,29.50%
+Montana,35-44 years,2010,31.00%
+Montana,45-64 years,2010,29.40%
+Montana,65 years and over,2010,20.90%
+Montana,18-24 years old,2009,7.30%
+Montana,25-34 years,2009,28.50%
+Montana,35-44 years,2009,29.20%
+Montana,45-64 years,2009,28.80%
+Montana,65 years and over,2009,20.40%
+Nebraska,18-24 years old,2015,10.60%
+Nebraska,25-34 years,2015,34.80%
+Nebraska,35-44 years,2015,34.50%
+Nebraska,45-64 years,2015,28.90%
+Nebraska,65 years and over,2015,20.30%
+Nebraska,18-24 years old,2014,10.20%
+Nebraska,25-34 years,2014,34.40%
+Nebraska,35-44 years,2014,34.30%
+Nebraska,45-64 years,2014,28.80%
+Nebraska,65 years and over,2014,19.20%
+Nebraska,18-24 years old,2013,9.90%
+Nebraska,25-34 years,2013,33.30%
+Nebraska,35-44 years,2013,34.30%
+Nebraska,45-64 years,2013,28.80%
+Nebraska,65 years and over,2013,18.20%
+Nebraska,18-24 years old,2012,9.80%
+Nebraska,25-34 years,2012,19.00%
+Nebraska,35-44 years,2012,32.90%
+Nebraska,45-64 years,2012,28.60%
+Nebraska,65 years and over,2012,17.50%
+Nebraska,18-24 years old,2011,9.60%
+Nebraska,25-34 years,2011,32.60%
+Nebraska,35-44 years,2011,33.10%
+Nebraska,45-64 years,2011,28.50%
+Nebraska,65 years and over,2011,17.10%
+Nebraska,18-24 years old,2010,9.60%
+Nebraska,25-34 years,2010,32.30%
+Nebraska,35-44 years,2010,32.90%
+Nebraska,45-64 years,2010,28.60%
+Nebraska,65 years and over,2010,16.40%
+Nebraska,18-24 years old,2009,9.80%
+Nebraska,25-34 years,2009,32.30%
+Nebraska,35-44 years,2009,31.50%
+Nebraska,45-64 years,2009,28.00%
+Nebraska,65 years and over,2009,16.10%
+Nevada,18-24 years old,2015,5.30%
+Nevada,25-34 years,2015,21.80%
+Nevada,35-44 years,2015,23.00%
+Nevada,45-64 years,2015,23.40%
+Nevada,65 years and over,2015,23.50%
+Nevada,18-24 years old,2014,5.30%
+Nevada,25-34 years,2014,21.60%
+Nevada,35-44 years,2014,22.30%
+Nevada,45-64 years,2014,23.20%
+Nevada,65 years and over,2014,22.50%
+Nevada,18-24 years old,2013,5.60%
+Nevada,25-34 years,2013,21.50%
+Nevada,35-44 years,2013,22.30%
+Nevada,45-64 years,2013,23.10%
+Nevada,65 years and over,2013,21.90%
+Nevada,18-24 years old,2012,5.70%
+Nevada,25-34 years,2012,14.80%
+Nevada,35-44 years,2012,21.60%
+Nevada,45-64 years,2012,23.10%
+Nevada,65 years and over,2012,21.20%
+Nevada,18-24 years old,2011,5.80%
+Nevada,25-34 years,2011,21.10%
+Nevada,35-44 years,2011,22.30%
+Nevada,45-64 years,2011,23.40%
+Nevada,65 years and over,2011,20.70%
+Nevada,18-24 years old,2010,5.90%
+Nevada,25-34 years,2010,21.20%
+Nevada,35-44 years,2010,21.90%
+Nevada,45-64 years,2010,23.10%
+Nevada,65 years and over,2010,19.80%
+Nevada,18-24 years old,2009,6.10%
+Nevada,25-34 years,2009,20.90%
+Nevada,35-44 years,2009,21.70%
+Nevada,45-64 years,2009,22.90%
+Nevada,65 years and over,2009,18.80%
+New Hampshire,18-24 years old,2015,11.90%
+New Hampshire,25-34 years,2015,37.70%
+New Hampshire,35-44 years,2015,39.80%
+New Hampshire,45-64 years,2015,34.80%
+New Hampshire,65 years and over,2015,29.00%
+New Hampshire,18-24 years old,2014,11.50%
+New Hampshire,25-34 years,2014,36.80%
+New Hampshire,35-44 years,2014,39.20%
+New Hampshire,45-64 years,2014,34.60%
+New Hampshire,65 years and over,2014,27.70%
+New Hampshire,18-24 years old,2013,11.20%
+New Hampshire,25-34 years,2013,36.50%
+New Hampshire,35-44 years,2013,37.80%
+New Hampshire,45-64 years,2013,34.30%
+New Hampshire,65 years and over,2013,26.40%
+New Hampshire,18-24 years old,2012,10.80%
+New Hampshire,25-34 years,2012,21.20%
+New Hampshire,35-44 years,2012,36.90%
+New Hampshire,45-64 years,2012,34.50%
+New Hampshire,65 years and over,2012,25.00%
+New Hampshire,18-24 years old,2011,10.70%
+New Hampshire,25-34 years,2011,36.70%
+New Hampshire,35-44 years,2011,35.90%
+New Hampshire,45-64 years,2011,34.40%
+New Hampshire,65 years and over,2011,24.20%
+New Hampshire,18-24 years old,2010,11.00%
+New Hampshire,25-34 years,2010,36.50%
+New Hampshire,35-44 years,2010,35.20%
+New Hampshire,45-64 years,2010,34.20%
+New Hampshire,65 years and over,2010,24.00%
+New Hampshire,18-24 years old,2009,10.80%
+New Hampshire,25-34 years,2009,36.00%
+New Hampshire,35-44 years,2009,34.70%
+New Hampshire,45-64 years,2009,34.00%
+New Hampshire,65 years and over,2009,23.10%
+New Jersey,18-24 years old,2015,14.00%
+New Jersey,25-34 years,2015,42.40%
+New Jersey,35-44 years,2015,42.40%
+New Jersey,45-64 years,2015,36.90%
+New Jersey,65 years and over,2015,26.30%
+New Jersey,18-24 years old,2014,13.50%
+New Jersey,25-34 years,2014,42.00%
+New Jersey,35-44 years,2014,41.80%
+New Jersey,45-64 years,2014,36.70%
+New Jersey,65 years and over,2014,25.20%
+New Jersey,18-24 years old,2013,13.10%
+New Jersey,25-34 years,2013,41.50%
+New Jersey,35-44 years,2013,41.10%
+New Jersey,45-64 years,2013,36.40%
+New Jersey,65 years and over,2013,24.10%
+New Jersey,18-24 years old,2012,13.10%
+New Jersey,25-34 years,2012,22.00%
+New Jersey,35-44 years,2012,40.90%
+New Jersey,45-64 years,2012,36.20%
+New Jersey,65 years and over,2012,23.10%
+New Jersey,18-24 years old,2011,13.00%
+New Jersey,25-34 years,2011,40.50%
+New Jersey,35-44 years,2011,40.10%
+New Jersey,45-64 years,2011,36.10%
+New Jersey,65 years and over,2011,22.10%
+New Jersey,18-24 years old,2010,12.90%
+New Jersey,25-34 years,2010,40.20%
+New Jersey,35-44 years,2010,39.40%
+New Jersey,45-64 years,2010,35.90%
+New Jersey,65 years and over,2010,21.30%
+New Jersey,18-24 years old,2009,13.10%
+New Jersey,25-34 years,2009,39.60%
+New Jersey,35-44 years,2009,38.90%
+New Jersey,45-64 years,2009,35.60%
+New Jersey,65 years and over,2009,20.50%
+New Mexico,18-24 years old,2015,4.90%
+New Mexico,25-34 years,2015,22.00%
+New Mexico,35-44 years,2015,25.80%
+New Mexico,45-64 years,2015,27.90%
+New Mexico,65 years and over,2015,27.80%
+New Mexico,18-24 years old,2014,5.10%
+New Mexico,25-34 years,2014,21.70%
+New Mexico,35-44 years,2014,25.80%
+New Mexico,45-64 years,2014,28.00%
+New Mexico,65 years and over,2014,26.90%
+New Mexico,18-24 years old,2013,5.30%
+New Mexico,25-34 years,2013,21.40%
+New Mexico,35-44 years,2013,25.80%
+New Mexico,45-64 years,2013,28.00%
+New Mexico,65 years and over,2013,25.80%
+New Mexico,18-24 years old,2012,5.30%
+New Mexico,25-34 years,2012,14.60%
+New Mexico,35-44 years,2012,20.90%
+New Mexico,45-64 years,2012,28.30%
+New Mexico,65 years and over,2012,25.10%
+New Mexico,18-24 years old,2011,5.30%
+New Mexico,25-34 years,2011,20.70%
+New Mexico,35-44 years,2011,24.90%
+New Mexico,45-64 years,2011,28.60%
+New Mexico,65 years and over,2011,24.30%
+New Mexico,18-24 years old,2010,5.20%
+New Mexico,25-34 years,2010,20.90%
+New Mexico,35-44 years,2010,24.30%
+New Mexico,45-64 years,2010,29.10%
+New Mexico,65 years and over,2010,23.60%
+New Mexico,18-24 years old,2009,4.80%
+New Mexico,25-34 years,2009,20.80%
+New Mexico,35-44 years,2009,24.10%
+New Mexico,45-64 years,2009,29.20%
+New Mexico,65 years and over,2009,22.40%
+New York,18-24 years old,2015,14.80%
+New York,25-34 years,2015,43.10%
+New York,35-44 years,2015,38.60%
+New York,45-64 years,2015,32.10%
+New York,65 years and over,2015,25.30%
+New York,18-24 years old,2014,14.60%
+New York,25-34 years,2014,42.50%
+New York,35-44 years,2014,37.80%
+New York,45-64 years,2014,31.90%
+New York,65 years and over,2014,24.50%
+New York,18-24 years old,2013,14.50%
+New York,25-34 years,2013,41.90%
+New York,35-44 years,2013,37.10%
+New York,45-64 years,2013,31.70%
+New York,65 years and over,2013,23.60%
+New York,18-24 years old,2012,14.50%
+New York,25-34 years,2012,18.60%
+New York,35-44 years,2012,41.50%
+New York,45-64 years,2012,31.60%
+New York,65 years and over,2012,22.70%
+New York,18-24 years old,2011,14.30%
+New York,25-34 years,2011,41.10%
+New York,35-44 years,2011,35.80%
+New York,45-64 years,2011,31.60%
+New York,65 years and over,2011,22.00%
+New York,18-24 years old,2010,14.30%
+New York,25-34 years,2010,40.80%
+New York,35-44 years,2010,35.00%
+New York,45-64 years,2010,31.50%
+New York,65 years and over,2010,21.40%
+New York,18-24 years old,2009,13.30%
+New York,25-34 years,2009,40.20%
+New York,35-44 years,2009,35.00%
+New York,45-64 years,2009,31.50%
+New York,65 years and over,2009,20.50%
+North Carolina,18-24 years old,2015,9.10%
+North Carolina,25-34 years,2015,31.30%
+North Carolina,35-44 years,2015,32.50%
+North Carolina,45-64 years,2015,28.00%
+North Carolina,65 years and over,2015,22.50%
+North Carolina,18-24 years old,2014,8.70%
+North Carolina,25-34 years,2014,30.70%
+North Carolina,35-44 years,2014,31.80%
+North Carolina,45-64 years,2014,27.50%
+North Carolina,65 years and over,2014,21.60%
+North Carolina,18-24 years old,2013,8.60%
+North Carolina,25-34 years,2013,30.20%
+North Carolina,35-44 years,2013,31.10%
+North Carolina,45-64 years,2013,27.20%
+North Carolina,65 years and over,2013,20.60%
+North Carolina,18-24 years old,2012,8.40%
+North Carolina,25-34 years,2012,17.80%
+North Carolina,35-44 years,2012,29.80%
+North Carolina,45-64 years,2012,26.90%
+North Carolina,65 years and over,2012,19.90%
+North Carolina,18-24 years old,2011,8.40%
+North Carolina,25-34 years,2011,29.60%
+North Carolina,35-44 years,2011,30.00%
+North Carolina,45-64 years,2011,26.70%
+North Carolina,65 years and over,2011,19.30%
+North Carolina,18-24 years old,2010,8.50%
+North Carolina,25-34 years,2010,29.30%
+North Carolina,35-44 years,2010,29.20%
+North Carolina,45-64 years,2010,26.40%
+North Carolina,65 years and over,2010,18.70%
+North Carolina,18-24 years old,2009,8.50%
+North Carolina,25-34 years,2009,29.30%
+North Carolina,35-44 years,2009,28.70%
+North Carolina,45-64 years,2009,26.10%
+North Carolina,65 years and over,2009,18.00%
+North Dakota,18-24 years old,2015,10.60%
+North Dakota,25-34 years,2015,34.00%
+North Dakota,35-44 years,2015,33.90%
+North Dakota,45-64 years,2015,26.90%
+North Dakota,65 years and over,2015,17.80%
+North Dakota,18-24 years old,2014,10.10%
+North Dakota,25-34 years,2014,33.90%
+North Dakota,35-44 years,2014,34.40%
+North Dakota,45-64 years,2014,26.50%
+North Dakota,65 years and over,2014,16.90%
+North Dakota,18-24 years old,2013,9.60%
+North Dakota,25-34 years,2013,33.90%
+North Dakota,35-44 years,2013,34.50%
+North Dakota,45-64 years,2013,26.80%
+North Dakota,65 years and over,2013,15.90%
+North Dakota,18-24 years old,2012,9.60%
+North Dakota,25-34 years,2012,19.60%
+North Dakota,35-44 years,2012,34.70%
+North Dakota,45-64 years,2012,26.90%
+North Dakota,65 years and over,2012,15.00%
+North Dakota,18-24 years old,2011,9.70%
+North Dakota,25-34 years,2011,34.20%
+North Dakota,35-44 years,2011,32.60%
+North Dakota,45-64 years,2011,27.10%
+North Dakota,65 years and over,2011,13.90%
+North Dakota,18-24 years old,2010,9.70%
+North Dakota,25-34 years,2010,33.60%
+North Dakota,35-44 years,2010,32.00%
+North Dakota,45-64 years,2010,27.30%
+North Dakota,65 years and over,2010,13.60%
+North Dakota,18-24 years old,2009,9.70%
+North Dakota,25-34 years,2009,32.90%
+North Dakota,35-44 years,2009,30.40%
+North Dakota,45-64 years,2009,27.30%
+North Dakota,65 years and over,2009,12.80%
+Ohio,18-24 years old,2015,9.40%
+Ohio,25-34 years,2015,31.50%
+Ohio,35-44 years,2015,30.90%
+Ohio,45-64 years,2015,25.40%
+Ohio,65 years and over,2015,19.00%
+Ohio,18-24 years old,2014,9.30%
+Ohio,25-34 years,2014,30.90%
+Ohio,35-44 years,2014,30.20%
+Ohio,45-64 years,2014,25.10%
+Ohio,65 years and over,2014,18.30%
+Ohio,18-24 years old,2013,9.00%
+Ohio,25-34 years,2013,30.30%
+Ohio,35-44 years,2013,29.60%
+Ohio,45-64 years,2013,24.80%
+Ohio,65 years and over,2013,17.60%
+Ohio,18-24 years old,2012,8.80%
+Ohio,25-34 years,2012,15.60%
+Ohio,35-44 years,2012,29.80%
+Ohio,45-64 years,2012,24.50%
+Ohio,65 years and over,2012,16.80%
+Ohio,18-24 years old,2011,8.80%
+Ohio,25-34 years,2011,29.50%
+Ohio,35-44 years,2011,28.60%
+Ohio,45-64 years,2011,24.50%
+Ohio,65 years and over,2011,16.20%
+Ohio,18-24 years old,2010,8.80%
+Ohio,25-34 years,2010,29.10%
+Ohio,35-44 years,2010,28.10%
+Ohio,45-64 years,2010,24.30%
+Ohio,65 years and over,2010,15.50%
+Ohio,18-24 years old,2009,8.50%
+Ohio,25-34 years,2009,28.60%
+Ohio,35-44 years,2009,27.00%
+Ohio,45-64 years,2009,23.80%
+Ohio,65 years and over,2009,14.80%
+Oklahoma,18-24 years old,2015,7.40%
+Oklahoma,25-34 years,2015,25.60%
+Oklahoma,35-44 years,2015,26.10%
+Oklahoma,45-64 years,2015,24.30%
+Oklahoma,65 years and over,2015,20.70%
+Oklahoma,18-24 years old,2014,7.20%
+Oklahoma,25-34 years,2014,25.10%
+Oklahoma,35-44 years,2014,25.80%
+Oklahoma,45-64 years,2014,24.30%
+Oklahoma,65 years and over,2014,19.90%
+Oklahoma,18-24 years old,2013,7.00%
+Oklahoma,25-34 years,2013,24.60%
+Oklahoma,35-44 years,2013,25.20%
+Oklahoma,45-64 years,2013,24.40%
+Oklahoma,65 years and over,2013,19.10%
+Oklahoma,18-24 years old,2012,6.90%
+Oklahoma,25-34 years,2012,15.60%
+Oklahoma,35-44 years,2012,24.30%
+Oklahoma,45-64 years,2012,24.50%
+Oklahoma,65 years and over,2012,18.30%
+Oklahoma,18-24 years old,2011,6.80%
+Oklahoma,25-34 years,2011,23.70%
+Oklahoma,35-44 years,2011,24.80%
+Oklahoma,45-64 years,2011,24.60%
+Oklahoma,65 years and over,2011,17.80%
+Oklahoma,18-24 years old,2010,6.40%
+Oklahoma,25-34 years,2010,23.30%
+Oklahoma,35-44 years,2010,24.00%
+Oklahoma,45-64 years,2010,24.40%
+Oklahoma,65 years and over,2010,17.20%
+Oklahoma,18-24 years old,2009,6.40%
+Oklahoma,25-34 years,2009,23.20%
+Oklahoma,35-44 years,2009,23.70%
+Oklahoma,45-64 years,2009,24.40%
+Oklahoma,65 years and over,2009,16.60%
+Oregon,18-24 years old,2015,8.10%
+Oregon,25-34 years,2015,31.70%
+Oregon,35-44 years,2015,35.40%
+Oregon,45-64 years,2015,29.70%
+Oregon,65 years and over,2015,27.80%
+Oregon,18-24 years old,2014,7.70%
+Oregon,25-34 years,2014,30.80%
+Oregon,35-44 years,2014,34.40%
+Oregon,45-64 years,2014,29.40%
+Oregon,65 years and over,2014,26.90%
+Oregon,18-24 years old,2013,7.60%
+Oregon,25-34 years,2013,30.10%
+Oregon,35-44 years,2013,33.70%
+Oregon,45-64 years,2013,29.70%
+Oregon,65 years and over,2013,25.70%
+Oregon,18-24 years old,2012,7.90%
+Oregon,25-34 years,2012,18.50%
+Oregon,35-44 years,2012,30.20%
+Oregon,45-64 years,2012,29.60%
+Oregon,65 years and over,2012,24.40%
+Oregon,18-24 years old,2011,7.90%
+Oregon,25-34 years,2011,30.00%
+Oregon,35-44 years,2011,31.90%
+Oregon,45-64 years,2011,29.80%
+Oregon,65 years and over,2011,23.60%
+Oregon,18-24 years old,2010,8.10%
+Oregon,25-34 years,2010,29.70%
+Oregon,35-44 years,2010,31.30%
+Oregon,45-64 years,2010,29.80%
+Oregon,65 years and over,2010,22.60%
+Oregon,18-24 years old,2009,8.20%
+Oregon,25-34 years,2009,29.40%
+Oregon,35-44 years,2009,30.30%
+Oregon,45-64 years,2009,29.80%
+Oregon,65 years and over,2009,21.80%
+Pennsylvania,18-24 years old,2015,11.50%
+Pennsylvania,25-34 years,2015,36.90%
+Pennsylvania,35-44 years,2015,34.20%
+Pennsylvania,45-64 years,2015,27.70%
+Pennsylvania,65 years and over,2015,19.70%
+Pennsylvania,18-24 years old,2014,11.50%
+Pennsylvania,25-34 years,2014,36.30%
+Pennsylvania,35-44 years,2014,33.50%
+Pennsylvania,45-64 years,2014,27.40%
+Pennsylvania,65 years and over,2014,18.70%
+Pennsylvania,18-24 years old,2013,11.50%
+Pennsylvania,25-34 years,2013,35.70%
+Pennsylvania,35-44 years,2013,32.90%
+Pennsylvania,45-64 years,2013,27.10%
+Pennsylvania,65 years and over,2013,17.90%
+Pennsylvania,18-24 years old,2012,11.50%
+Pennsylvania,25-34 years,2012,16.60%
+Pennsylvania,35-44 years,2012,35.30%
+Pennsylvania,45-64 years,2012,26.80%
+Pennsylvania,65 years and over,2012,17.00%
+Pennsylvania,18-24 years old,2011,11.20%
+Pennsylvania,25-34 years,2011,35.00%
+Pennsylvania,35-44 years,2011,31.20%
+Pennsylvania,45-64 years,2011,26.80%
+Pennsylvania,65 years and over,2011,16.30%
+Pennsylvania,18-24 years old,2010,11.10%
+Pennsylvania,25-34 years,2010,34.60%
+Pennsylvania,35-44 years,2010,30.50%
+Pennsylvania,45-64 years,2010,26.70%
+Pennsylvania,65 years and over,2010,15.80%
+Pennsylvania,18-24 years old,2009,10.60%
+Pennsylvania,25-34 years,2009,34.20%
+Pennsylvania,35-44 years,2009,29.60%
+Pennsylvania,45-64 years,2009,26.50%
+Pennsylvania,65 years and over,2009,15.30%
+Rhode Island,18-24 years old,2015,12.60%
+Rhode Island,25-34 years,2015,36.00%
+Rhode Island,35-44 years,2015,35.10%
+Rhode Island,45-64 years,2015,32.50%
+Rhode Island,65 years and over,2015,24.80%
+Rhode Island,18-24 years old,2014,12.40%
+Rhode Island,25-34 years,2014,36.00%
+Rhode Island,35-44 years,2014,35.00%
+Rhode Island,45-64 years,2014,31.80%
+Rhode Island,65 years and over,2014,23.70%
+Rhode Island,18-24 years old,2013,11.90%
+Rhode Island,25-34 years,2013,35.70%
+Rhode Island,35-44 years,2013,34.70%
+Rhode Island,45-64 years,2013,32.60%
+Rhode Island,65 years and over,2013,22.50%
+Rhode Island,18-24 years old,2012,11.50%
+Rhode Island,25-34 years,2012,18.60%
+Rhode Island,35-44 years,2012,34.70%
+Rhode Island,45-64 years,2012,32.10%
+Rhode Island,65 years and over,2012,21.60%
+Rhode Island,18-24 years old,2011,11.30%
+Rhode Island,25-34 years,2011,35.30%
+Rhode Island,35-44 years,2011,33.80%
+Rhode Island,45-64 years,2011,32.30%
+Rhode Island,65 years and over,2011,20.40%
+Rhode Island,18-24 years old,2010,10.10%
+Rhode Island,25-34 years,2010,35.60%
+Rhode Island,35-44 years,2010,33.60%
+Rhode Island,45-64 years,2010,31.80%
+Rhode Island,65 years and over,2010,19.90%
+Rhode Island,18-24 years old,2009,10.00%
+Rhode Island,25-34 years,2009,35.00%
+Rhode Island,35-44 years,2009,32.40%
+Rhode Island,45-64 years,2009,31.50%
+Rhode Island,65 years and over,2009,19.00%
+South Carolina,18-24 years old,2015,8.20%
+South Carolina,25-34 years,2015,27.70%
+South Carolina,35-44 years,2015,28.60%
+South Carolina,45-64 years,2015,25.40%
+South Carolina,65 years and over,2015,22.90%
+South Carolina,18-24 years old,2014,8.00%
+South Carolina,25-34 years,2014,27.20%
+South Carolina,35-44 years,2014,27.70%
+South Carolina,45-64 years,2014,25.10%
+South Carolina,65 years and over,2014,22.30%
+South Carolina,18-24 years old,2013,8.00%
+South Carolina,25-34 years,2013,27.30%
+South Carolina,35-44 years,2013,27.20%
+South Carolina,45-64 years,2013,24.90%
+South Carolina,65 years and over,2013,21.50%
+South Carolina,18-24 years old,2012,7.80%
+South Carolina,25-34 years,2012,15.80%
+South Carolina,35-44 years,2012,26.90%
+South Carolina,45-64 years,2012,24.60%
+South Carolina,65 years and over,2012,20.60%
+South Carolina,18-24 years old,2011,7.70%
+South Carolina,25-34 years,2011,26.40%
+South Carolina,35-44 years,2011,25.70%
+South Carolina,45-64 years,2011,24.50%
+South Carolina,65 years and over,2011,20.00%
+South Carolina,18-24 years old,2010,7.80%
+South Carolina,25-34 years,2010,26.30%
+South Carolina,35-44 years,2010,25.00%
+South Carolina,45-64 years,2010,24.60%
+South Carolina,65 years and over,2010,19.40%
+South Carolina,18-24 years old,2009,7.50%
+South Carolina,25-34 years,2009,26.00%
+South Carolina,35-44 years,2009,24.60%
+South Carolina,45-64 years,2009,24.10%
+South Carolina,65 years and over,2009,18.50%
+South Dakota,18-24 years old,2015,7.80%
+South Dakota,25-34 years,2015,30.40%
+South Dakota,35-44 years,2015,31.90%
+South Dakota,45-64 years,2015,26.40%
+South Dakota,65 years and over,2015,21.30%
+South Dakota,18-24 years old,2014,7.70%
+South Dakota,25-34 years,2014,29.50%
+South Dakota,35-44 years,2014,31.70%
+South Dakota,45-64 years,2014,26.80%
+South Dakota,65 years and over,2014,20.10%
+South Dakota,18-24 years old,2013,7.90%
+South Dakota,25-34 years,2013,29.10%
+South Dakota,35-44 years,2013,31.00%
+South Dakota,45-64 years,2013,26.20%
+South Dakota,65 years and over,2013,19.60%
+South Dakota,18-24 years old,2012,7.60%
+South Dakota,25-34 years,2012,18.30%
+South Dakota,35-44 years,2012,29.60%
+South Dakota,45-64 years,2012,26.60%
+South Dakota,65 years and over,2012,18.50%
+South Dakota,18-24 years old,2011,7.60%
+South Dakota,25-34 years,2011,29.70%
+South Dakota,35-44 years,2011,29.90%
+South Dakota,45-64 years,2011,26.40%
+South Dakota,65 years and over,2011,17.90%
+South Dakota,18-24 years old,2010,7.60%
+South Dakota,25-34 years,2010,29.60%
+South Dakota,35-44 years,2010,29.20%
+South Dakota,45-64 years,2010,26.30%
+South Dakota,65 years and over,2010,16.50%
+South Dakota,18-24 years old,2009,7.30%
+South Dakota,25-34 years,2009,29.00%
+South Dakota,35-44 years,2009,28.40%
+South Dakota,45-64 years,2009,25.60%
+South Dakota,65 years and over,2009,15.80%
+Tennessee,18-24 years old,2015,8.80%
+Tennessee,25-34 years,2015,29.10%
+Tennessee,35-44 years,2015,28.80%
+Tennessee,45-64 years,2015,24.20%
+Tennessee,65 years and over,2015,19.00%
+Tennessee,18-24 years old,2014,8.40%
+Tennessee,25-34 years,2014,28.20%
+Tennessee,35-44 years,2014,28.20%
+Tennessee,45-64 years,2014,24.00%
+Tennessee,65 years and over,2014,18.20%
+Tennessee,18-24 years old,2013,8.20%
+Tennessee,25-34 years,2013,27.50%
+Tennessee,35-44 years,2013,27.60%
+Tennessee,45-64 years,2013,23.60%
+Tennessee,65 years and over,2013,17.20%
+Tennessee,18-24 years old,2012,8.10%
+Tennessee,25-34 years,2012,15.20%
+Tennessee,35-44 years,2012,27.10%
+Tennessee,45-64 years,2012,23.50%
+Tennessee,65 years and over,2012,16.50%
+Tennessee,18-24 years old,2011,7.80%
+Tennessee,25-34 years,2011,26.60%
+Tennessee,35-44 years,2011,26.30%
+Tennessee,45-64 years,2011,23.20%
+Tennessee,65 years and over,2011,15.80%
+Tennessee,18-24 years old,2010,7.80%
+Tennessee,25-34 years,2010,26.20%
+Tennessee,35-44 years,2010,25.70%
+Tennessee,45-64 years,2010,23.10%
+Tennessee,65 years and over,2010,15.30%
+Tennessee,18-24 years old,2009,7.80%
+Tennessee,25-34 years,2009,25.80%
+Tennessee,35-44 years,2009,25.00%
+Tennessee,45-64 years,2009,23.00%
+Tennessee,65 years and over,2009,14.80%
+Texas,18-24 years old,2015,7.70%
+Texas,25-34 years,2015,28.30%
+Texas,35-44 years,2015,29.80%
+Texas,45-64 years,2015,27.70%
+Texas,65 years and over,2015,23.60%
+Texas,18-24 years old,2014,7.60%
+Texas,25-34 years,2014,27.50%
+Texas,35-44 years,2014,29.10%
+Texas,45-64 years,2014,27.60%
+Texas,65 years and over,2014,23.00%
+Texas,18-24 years old,2013,7.50%
+Texas,25-34 years,2013,26.90%
+Texas,35-44 years,2013,28.60%
+Texas,45-64 years,2013,27.40%
+Texas,65 years and over,2013,22.10%
+Texas,18-24 years old,2012,7.20%
+Texas,25-34 years,2012,17.50%
+Texas,35-44 years,2012,26.30%
+Texas,45-64 years,2012,27.30%
+Texas,65 years and over,2012,21.50%
+Texas,18-24 years old,2011,7.10%
+Texas,25-34 years,2011,26.10%
+Texas,35-44 years,2011,27.80%
+Texas,45-64 years,2011,27.30%
+Texas,65 years and over,2011,20.70%
+Texas,18-24 years old,2010,7.00%
+Texas,25-34 years,2010,25.60%
+Texas,35-44 years,2010,27.50%
+Texas,45-64 years,2010,27.30%
+Texas,65 years and over,2010,20.10%
+Texas,18-24 years old,2009,6.80%
+Texas,25-34 years,2009,25.00%
+Texas,35-44 years,2009,27.00%
+Texas,45-64 years,2009,27.30%
+Texas,65 years and over,2009,19.30%
+Utah,18-24 years old,2015,6.50%
+Utah,25-34 years,2015,30.60%
+Utah,35-44 years,2015,33.20%
+Utah,45-64 years,2015,30.90%
+Utah,65 years and over,2015,29.60%
+Utah,18-24 years old,2014,6.10%
+Utah,25-34 years,2014,30.10%
+Utah,35-44 years,2014,32.90%
+Utah,45-64 years,2014,30.60%
+Utah,65 years and over,2014,28.70%
+Utah,18-24 years old,2013,6.00%
+Utah,25-34 years,2013,29.90%
+Utah,35-44 years,2013,32.20%
+Utah,45-64 years,2013,30.60%
+Utah,65 years and over,2013,27.70%
+Utah,18-24 years old,2012,6.30%
+Utah,25-34 years,2012,20.10%
+Utah,35-44 years,2012,28.90%
+Utah,45-64 years,2012,30.80%
+Utah,65 years and over,2012,26.50%
+Utah,18-24 years old,2011,6.00%
+Utah,25-34 years,2011,28.70%
+Utah,35-44 years,2011,31.60%
+Utah,45-64 years,2011,31.10%
+Utah,65 years and over,2011,25.20%
+Utah,18-24 years old,2010,6.10%
+Utah,25-34 years,2010,28.40%
+Utah,35-44 years,2010,31.20%
+Utah,45-64 years,2010,31.20%
+Utah,65 years and over,2010,25.00%
+Utah,18-24 years old,2009,5.90%
+Utah,25-34 years,2009,27.40%
+Utah,35-44 years,2009,30.40%
+Utah,45-64 years,2009,30.90%
+Utah,65 years and over,2009,24.00%
+Vermont,18-24 years old,2015,12.00%
+Vermont,25-34 years,2015,38.70%
+Vermont,35-44 years,2015,39.60%
+Vermont,45-64 years,2015,35.50%
+Vermont,65 years and over,2015,32.20%
+Vermont,18-24 years old,2014,11.50%
+Vermont,25-34 years,2014,37.70%
+Vermont,35-44 years,2014,38.90%
+Vermont,45-64 years,2014,35.30%
+Vermont,65 years and over,2014,30.50%
+Vermont,18-24 years old,2013,10.50%
+Vermont,25-34 years,2013,37.20%
+Vermont,35-44 years,2013,38.20%
+Vermont,45-64 years,2013,35.20%
+Vermont,65 years and over,2013,29.50%
+Vermont,18-24 years old,2012,10.10%
+Vermont,25-34 years,2012,20.70%
+Vermont,35-44 years,2012,36.50%
+Vermont,45-64 years,2012,35.30%
+Vermont,65 years and over,2012,27.90%
+Vermont,18-24 years old,2011,10.20%
+Vermont,25-34 years,2011,36.50%
+Vermont,35-44 years,2011,35.70%
+Vermont,45-64 years,2011,35.20%
+Vermont,65 years and over,2011,27.30%
+Vermont,18-24 years old,2010,9.80%
+Vermont,25-34 years,2010,35.70%
+Vermont,35-44 years,2010,34.20%
+Vermont,45-64 years,2010,35.20%
+Vermont,65 years and over,2010,26.30%
+Vermont,18-24 years old,2009,9.90%
+Vermont,25-34 years,2009,35.80%
+Vermont,35-44 years,2009,33.60%
+Vermont,45-64 years,2009,35.30%
+Vermont,65 years and over,2009,24.80%
+Virginia,18-24 years old,2015,12.00%
+Virginia,25-34 years,2015,39.60%
+Virginia,35-44 years,2015,41.70%
+Virginia,45-64 years,2015,36.10%
+Virginia,65 years and over,2015,28.00%
+Virginia,18-24 years old,2014,11.90%
+Virginia,25-34 years,2014,39.10%
+Virginia,35-44 years,2014,41.00%
+Virginia,45-64 years,2014,35.60%
+Virginia,65 years and over,2014,27.00%
+Virginia,18-24 years old,2013,11.80%
+Virginia,25-34 years,2013,38.90%
+Virginia,35-44 years,2013,40.00%
+Virginia,45-64 years,2013,35.20%
+Virginia,65 years and over,2013,26.00%
+Virginia,18-24 years old,2012,11.60%
+Virginia,25-34 years,2012,20.30%
+Virginia,35-44 years,2012,38.50%
+Virginia,45-64 years,2012,34.80%
+Virginia,65 years and over,2012,25.10%
+Virginia,18-24 years old,2011,11.60%
+Virginia,25-34 years,2011,38.20%
+Virginia,35-44 years,2011,38.40%
+Virginia,45-64 years,2011,34.80%
+Virginia,65 years and over,2011,24.30%
+Virginia,18-24 years old,2010,11.50%
+Virginia,25-34 years,2010,37.60%
+Virginia,35-44 years,2010,37.30%
+Virginia,45-64 years,2010,34.60%
+Virginia,65 years and over,2010,23.40%
+Virginia,18-24 years old,2009,11.50%
+Virginia,25-34 years,2009,37.00%
+Virginia,35-44 years,2009,36.60%
+Virginia,45-64 years,2009,34.60%
+Virginia,65 years and over,2009,22.80%
+Washington,18-24 years old,2015,10.00%
+Washington,25-34 years,2015,33.30%
+Washington,35-44 years,2015,35.90%
+Washington,45-64 years,2015,32.60%
+Washington,65 years and over,2015,30.00%
+Washington,18-24 years old,2014,9.70%
+Washington,25-34 years,2014,32.40%
+Washington,35-44 years,2014,35.40%
+Washington,45-64 years,2014,32.40%
+Washington,65 years and over,2014,28.90%
+Washington,18-24 years old,2013,9.30%
+Washington,25-34 years,2013,31.90%
+Washington,35-44 years,2013,34.50%
+Washington,45-64 years,2013,32.40%
+Washington,65 years and over,2013,28.10%
+Washington,18-24 years old,2012,9.40%
+Washington,25-34 years,2012,20.20%
+Washington,35-44 years,2012,31.70%
+Washington,45-64 years,2012,32.20%
+Washington,65 years and over,2012,27.20%
+Washington,18-24 years old,2011,8.90%
+Washington,25-34 years,2011,31.70%
+Washington,35-44 years,2011,33.90%
+Washington,45-64 years,2011,32.20%
+Washington,65 years and over,2011,26.20%
+Washington,18-24 years old,2010,8.70%
+Washington,25-34 years,2010,31.60%
+Washington,35-44 years,2010,33.30%
+Washington,45-64 years,2010,32.10%
+Washington,65 years and over,2010,25.20%
+Washington,18-24 years old,2009,8.40%
+Washington,25-34 years,2009,31.80%
+Washington,35-44 years,2009,32.80%
+Washington,45-64 years,2009,32.00%
+Washington,65 years and over,2009,24.50%
+West Virginia,18-24 years old,2015,7.90%
+West Virginia,25-34 years,2015,24.60%
+West Virginia,35-44 years,2015,22.20%
+West Virginia,45-64 years,2015,18.80%
+West Virginia,65 years and over,2015,13.80%
+West Virginia,18-24 years old,2014,8.00%
+West Virginia,25-34 years,2014,23.90%
+West Virginia,35-44 years,2014,22.00%
+West Virginia,45-64 years,2014,18.60%
+West Virginia,65 years and over,2014,13.00%
+West Virginia,18-24 years old,2013,7.60%
+West Virginia,25-34 years,2013,23.20%
+West Virginia,35-44 years,2013,21.20%
+West Virginia,45-64 years,2013,18.40%
+West Virginia,65 years and over,2013,12.40%
+West Virginia,18-24 years old,2012,7.80%
+West Virginia,25-34 years,2012,11.00%
+West Virginia,35-44 years,2012,22.90%
+West Virginia,45-64 years,2012,18.10%
+West Virginia,65 years and over,2012,11.70%
+West Virginia,18-24 years old,2011,7.80%
+West Virginia,25-34 years,2011,22.30%
+West Virginia,35-44 years,2011,20.20%
+West Virginia,45-64 years,2011,17.90%
+West Virginia,65 years and over,2011,11.50%
+West Virginia,18-24 years old,2010,7.50%
+West Virginia,25-34 years,2010,21.80%
+West Virginia,35-44 years,2010,19.30%
+West Virginia,45-64 years,2010,17.80%
+West Virginia,65 years and over,2010,11.20%
+West Virginia,18-24 years old,2009,7.40%
+West Virginia,25-34 years,2009,21.20%
+West Virginia,35-44 years,2009,18.90%
+West Virginia,45-64 years,2009,17.80%
+West Virginia,65 years and over,2009,11.00%
+Wisconsin,18-24 years old,2015,10.10%
+Wisconsin,25-34 years,2015,32.80%
+Wisconsin,35-44 years,2015,32.80%
+Wisconsin,45-64 years,2015,27.10%
+Wisconsin,65 years and over,2015,20.80%
+Wisconsin,18-24 years old,2014,9.80%
+Wisconsin,25-34 years,2014,31.90%
+Wisconsin,35-44 years,2014,32.40%
+Wisconsin,45-64 years,2014,26.90%
+Wisconsin,65 years and over,2014,20.20%
+Wisconsin,18-24 years old,2013,9.30%
+Wisconsin,25-34 years,2013,31.20%
+Wisconsin,35-44 years,2013,31.70%
+Wisconsin,45-64 years,2013,26.50%
+Wisconsin,65 years and over,2013,19.20%
+Wisconsin,18-24 years old,2012,9.10%
+Wisconsin,25-34 years,2012,17.50%
+Wisconsin,35-44 years,2012,30.50%
+Wisconsin,45-64 years,2012,26.40%
+Wisconsin,65 years and over,2012,18.30%
+Wisconsin,18-24 years old,2011,9.00%
+Wisconsin,25-34 years,2011,30.20%
+Wisconsin,35-44 years,2011,30.60%
+Wisconsin,45-64 years,2011,26.20%
+Wisconsin,65 years and over,2011,17.50%
+Wisconsin,18-24 years old,2010,8.80%
+Wisconsin,25-34 years,2010,30.00%
+Wisconsin,35-44 years,2010,30.00%
+Wisconsin,45-64 years,2010,26.20%
+Wisconsin,65 years and over,2010,16.90%
+Wisconsin,18-24 years old,2009,8.80%
+Wisconsin,25-34 years,2009,30.30%
+Wisconsin,35-44 years,2009,29.10%
+Wisconsin,45-64 years,2009,25.90%
+Wisconsin,65 years and over,2009,16.20%
+Wyoming,18-24 years old,2015,6.30%
+Wyoming,25-34 years,2015,27.00%
+Wyoming,35-44 years,2015,26.90%
+Wyoming,45-64 years,2015,25.50%
+Wyoming,65 years and over,2015,23.80%
+Wyoming,18-24 years old,2014,6.80%
+Wyoming,25-34 years,2014,26.30%
+Wyoming,35-44 years,2014,26.00%
+Wyoming,45-64 years,2014,25.40%
+Wyoming,65 years and over,2014,22.50%
+Wyoming,18-24 years old,2013,6.30%
+Wyoming,25-34 years,2013,25.70%
+Wyoming,35-44 years,2013,25.80%
+Wyoming,45-64 years,2013,25.10%
+Wyoming,65 years and over,2013,21.50%
+Wyoming,18-24 years old,2012,6.30%
+Wyoming,25-34 years,2012,16.20%
+Wyoming,35-44 years,2012,24.20%
+Wyoming,45-64 years,2012,25.00%
+Wyoming,65 years and over,2012,21.00%
+Wyoming,18-24 years old,2011,6.90%
+Wyoming,25-34 years,2011,24.00%
+Wyoming,35-44 years,2011,26.20%
+Wyoming,45-64 years,2011,24.90%
+Wyoming,65 years and over,2011,21.00%
+Wyoming,18-24 years old,2010,6.40%
+Wyoming,25-34 years,2010,22.50%
+Wyoming,35-44 years,2010,25.30%
+Wyoming,45-64 years,2010,24.70%
+Wyoming,65 years and over,2010,20.30%
+Wyoming,18-24 years old,2009,6.30%
+Wyoming,25-34 years,2009,21.60%
+Wyoming,35-44 years,2009,24.90%
+Wyoming,45-64 years,2009,25.10%
+Wyoming,65 years and over,2009,19.10%
